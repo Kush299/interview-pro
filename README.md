@@ -1,5 +1,5 @@
-Interview Pro<br/>
-Interview Pro is an AI-driven mock interview platform designed to help users enhance their interview skills. It offers real-time AI feedback, speech-to-text analysis, and video recording to simulate realistic interview scenarios.<br/>
+Interview Elevate<br/>
+Interview Elevate is an AI-driven mock interview platform designed to help users enhance their interview skills. It offers real-time AI feedback, speech-to-text analysis, and video recording to simulate realistic interview scenarios.<br/>
 <br/>
 🚀 Key Features<br/>
 AI-Powered Mock Interviews – Practice with role-specific questions.<br/>
@@ -17,7 +17,7 @@ Gemini AI – AI Processing<br/>
 Clerk – Authentication and User Management<br/><br/>
 
 Deployment<br/>
-The project is deployed on Vercel. You can visit the live site here[https://interview-pro-kush.vercel.app/].
+The project is deployed on Vercel. You can visit the live website here[https://interview-elevate.vercel.app/].
 <br/><br/>
 👨‍💻 Author<br/>
 Kush Sharma<br/>
