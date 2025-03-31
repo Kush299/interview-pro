@@ -13,7 +13,7 @@ export default function Page() {
             className="absolute inset-0 h-full w-full object-cover brightness-75"
           />
           <div className="relative z-10 p-12 text-white">
-            <h2 className="text-4xl font-extrabold">Welcome to Interview Pro 🤖🎤</h2>
+            <h2 className="text-4xl font-extrabold">Welcome to Interview Elevate 🤖🎤</h2>
             <p className="mt-4 text-lg">
               AI-driven mock interview platform designed to help users improve their interview skills with 
               real-time AI feedback, speech-to-text analysis, and audio-video recording.
