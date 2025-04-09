@@ -25,7 +25,7 @@ function QuestionsSection({mockInterviewQuestion, activeQuestionIndex}) {
                         key={index} 
                         className={`p-2 bg-secondary rounded-full
                         text-xs md:text-sm text-center cursor-pointer
-                        ${activeQuestionIndex === index ? 'bg-blue-600 text-white' : ''}`}
+                        ${activeQuestionIndex === index ? 'bg-blue-800 text-white' : ''}`}
                     >
                         Question #{index + 1}
                     </h2>
